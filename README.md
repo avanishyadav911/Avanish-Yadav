@@ -5,8 +5,11 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/107767172/196756982-f3bcd4cc-7c85-42c1-ab8d-5a8d64825fdd.gif" width="100">, I'm Avanish Yadav</h1>
 <br>
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h3 align="center">A passionate MERN Stack developer from India</h3> 
+<br>
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/RishabhJain0721/count.svg" alt="visitor badge"/></p>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanishyadav911&label=Profile%20views&color=0e75b6&style=flat" alt="avanishyadav911" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avanishyadav911" alt="avanishyadav911" /></a> </p>
