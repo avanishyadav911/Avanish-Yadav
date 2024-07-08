@@ -18,7 +18,7 @@
 - 💬 Ask me about **Development, CP, Graphic Designing**
 - 📫 Mail me at **avanish9113@gmail.com**
 - ⚡ Fun fact: **I am a Programmer**
-- 
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/avanishh_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avanishh_yadav" height="30" width="40" /></a>
