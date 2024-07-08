@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Avanish Yadav</h1>
+<br>
+<p align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="300">
+</p>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/107767172/196756982-f3bcd4cc-7c85-42c1-ab8d-5a8d64825fdd.gif" width="100">, I'm Avanish Yadav</h1>
+<br>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avanishyadav911&label=Profile%20views&color=0e75b6&style=flat" alt="avanishyadav911" /> </p>
