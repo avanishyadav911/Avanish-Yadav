@@ -10,9 +10,7 @@
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/avanishyadav911/count.svg" alt="visitor badge"/></p>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avanishyadav911&label=Profile%20views&color=0e75b6&style=flat" alt="avanishyadav911" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avanishyadav911" alt="avanishyadav911" /></a> </p>
 
 - 🌱 I’m currently learning **DSA and Next JS**
 - 💬 Ask me about **Development, CP, Graphic Designing**
