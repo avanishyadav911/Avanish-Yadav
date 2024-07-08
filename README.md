@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhjain0721&show_icons=true&locale=en&layout=compact" alt="rishabhjain0721" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avanishyadav911&show_icons=true&locale=en&layout=compact" alt="avanishyadav911" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
