@@ -61,6 +61,4 @@
   </a>
 </p>
 
-<h3>Hacktober fest 2022 Achievements :</h3>
 
-[![@rishjain01's Holopin board](https://holopin.me/rishjain01)](https://holopin.io/@rishjain01)
