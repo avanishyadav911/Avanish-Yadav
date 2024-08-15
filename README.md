@@ -53,6 +53,5 @@
 <p align="left">
 <a href="https://twitter.com/avanishh_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avanishh_yadav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/avanish-yadav-5a6b1821a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avanish-yadav-5a6b1821a" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/avanish009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avanish009" height="30" width="40" /></a>
 </p>
