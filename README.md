@@ -18,7 +18,7 @@
 
  
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs&logoColor=339933" />
@@ -45,11 +45,11 @@
 <p align="center"><img src="https://profile-counter.glitch.me/avanishyadav911/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanishyadav911&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=avanishyadav911&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<a align="center "href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=avanishyadav911&theme=dark" alt="GitHub Streak" /></a>
+<a align="center"href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=avanishyadav911&theme=dark" alt="GitHub Streak" /></a>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a align="center" href="https://twitter.com/avanishh_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avanishh_yadav" height="30" width="40" /></a>
-<a align="center" href="https://linkedin.com/in/avanish-yadav-5a6b1821a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avanish-yadav-5a6b1821a" height="30" width="40" /></a>
-<a align="center" href="https://www.leetcode.com/avanish009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avanish009" height="30" width="40" /></a>
+<a href="https://twitter.com/avanishh_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avanishh_yadav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avanish-yadav-5a6b1821a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avanish-yadav-5a6b1821a" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/avanish009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avanish009" height="30" width="40" /></a>
 </p>
