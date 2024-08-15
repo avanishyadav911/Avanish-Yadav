@@ -53,8 +53,6 @@
 <p align="left">
 <a href="https://twitter.com/avanishh_yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avanishh_yadav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/avanish-yadav-5a6b1821a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avanish-yadav-5a6b1821a" height="30" width="40" /></a>
-<a href="https://instagram.com/avanishyadav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avanishyadav_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/avanish_ydv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="avanish_ydv" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/avanish_ydv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="avanish_ydv" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/avanish009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avanish009" height="30" width="40" /></a>
 </p>
