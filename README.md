@@ -11,10 +11,9 @@
 <p align="center"><img src="https://profile-counter.glitch.me/avanishyadav911/count.svg" alt="visitor badge"/></p>
 <br/>
 
-
-                                                           - 🌱 I’m currently learning **DSA and React JS**
-                                                           - 💬 Ask me about **Development, CP, Graphic Designing**
-                                                           - 📫 Mail me at **avanish9113@gmail.com**
+- 🌱 I’m currently learning **DSA and React JS**
+- 💬 Ask me about **Development, CP, Graphic Designing**
+- 📫 Mail me at **avanish9113@gmail.com**
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanishyadav911&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=avanishyadav911&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
